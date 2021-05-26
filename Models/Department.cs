@@ -4,6 +4,7 @@ namespace ThanksCardAPI.Models
 {
     public class Department
     {
+        //add department
         public long Id { get; set; }
         public int Code { get; set; }
         public string Name { get; set; }
